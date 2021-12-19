@@ -40,7 +40,7 @@ header{
 
 }
 .wrapper{
-width: 90%;
+width: 85%;
 margin: 0 auto;
 /*border: 1px solid;*/
 overflow: hidden;
@@ -200,7 +200,7 @@ color: #626262;
 }
 .signup button{
 	position: absolute;
-	top: 14px;
+	top: 16px;
 	right: 0;
 	background: transparent;
 	border: none;
